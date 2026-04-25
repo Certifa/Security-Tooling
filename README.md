@@ -8,7 +8,7 @@ Built as part of a structured learning path to develop hands-on scripting abilit
 
 | # | Tool | Phase | Status |
 |---|------|-------|--------|
-| 01 | [HTTP Header Checker](#01---http-header-checker) | Recon | 🔲 |
+| 01 | [HTTP Header Checker](#01---http-header-checker) | Recon | ✅ |
 | 02 | [Subdomain Enumerator](#02---subdomain-enumerator) | Recon | 🔲 |
 | 03 | [Log Analyzer](#03---log-analyzer) | Forensics | 🔲 |
 | 04 | [Port Scanner](#04---port-scanner) | Recon | 🔲 |
